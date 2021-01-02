@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name slalex_irmp)(type Legacy)(uri ${KIPRJMOD}/libs/slalex_irmp.lib)(options "")(descr ""))
+)

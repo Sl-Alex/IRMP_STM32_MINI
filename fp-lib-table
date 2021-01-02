@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SLALEX_IRMP)(type KiCad)(uri ${KIPRJMOD}/libs/SLALEX_IRMP.pretty)(options "")(descr ""))
+)
